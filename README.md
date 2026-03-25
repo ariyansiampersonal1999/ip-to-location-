@@ -53,3 +53,4 @@ A simple and powerful Python-based IP lookup tool that provides detailed informa
 pkg update && pkg upgrade
 pkg install python git
 pip install requests
+git clone https://github.com/ariyansiampersonal1999/ip-to-location-.git
