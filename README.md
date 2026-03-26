@@ -29,7 +29,7 @@ A simple and powerful Python-based IP lookup tool that provides detailed informa
 ## 🚀 TOOL TOPIC 
 
 <p align="center">
-  <img src="https://f.top4top.io/s_3736bs7ya0.jpeg" width="80%">
+  <img src="https://f.top4top.io/p_3736gnsrj0.jpeg" width="80%">
 </p>
 
 ## 📸 More Preview
