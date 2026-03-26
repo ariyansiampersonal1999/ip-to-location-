@@ -26,8 +26,17 @@ A simple and powerful Python-based IP lookup tool that provides detailed informa
 ⚡ Fast & lightweight CLI tool  
 
 ---
+## 🚀 TOOL TOPIC 
 
-## 📸 Preview
+<p align="center">
+  <img src="https://f.top4top.io/s_3736bs7ya0.jpeg" width="80%">
+</p>
+
+## 📸 More Preview
+
+<p align="center">
+  <img src="https://c.top4top.io/p_3736e0lzq0.jpeg" width="60%">
+</p>
 
 ## 👨‍💻 Developer
 
